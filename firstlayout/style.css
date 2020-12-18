@@ -1,0 +1,100 @@
+.navcolor{
+    color: white;
+    font-size: 35px;
+    padding: 0px;
+    font-family: Extra-light 200;
+}
+
+.navcolor1{
+    color: white;
+}
+  
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 60%;
+    background: white;
+    margin-left: 150px;
+    height: 40px;
+    border-radius: 3px 0px 0px 3px;
+  }
+  
+   .button {
+    float: left;
+    width: 10%;
+    padding: 6px;
+    background: #024b86;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    height: 40px;
+    border-radius: 0px 3px 3px 0px;
+
+  }
+
+  .margin{
+      margin-top: 35px;
+  }
+
+  .bgcolor{
+      background-color: #26f795;
+  }
+
+  .icon{
+      color: rgb(123, 250, 123);
+      position: absolute;
+      left: 407px;
+      top: 186px;
+    
+  }
+
+  .icon2{
+    color: rgb(123, 250, 123);
+    position: absolute;
+    left: 823px;
+    top: 186px;
+  
+}
+
+.icon3{
+    color: rgb(123, 250, 123);
+    position: absolute;
+    left: 1244px;
+    top: 186px;
+  
+}
+
+.icon4{
+    color: rgb(123, 250, 123);
+    position: absolute;
+    left: 407px;
+    top: 430px;
+  
+}
+
+.icon5{
+    color: rgb(123, 250, 123);
+    position: absolute;
+    left: 823px;
+    top: 430px;
+  
+}
+
+.icon6{
+    color: rgb(123, 250, 123);
+    position: absolute;
+    left: 1244px;
+    top: 430px;
+  
+}
+
+/* .showed{
+    box-shadow: 1px 1px 1px #aaaaaa;
+} */
+
+
+  
